@@ -1,5 +1,4 @@
 Cython==0.29.13
-esptool==0.1.0
 Flask==1.x.x
 itsdangerous==1.1.0
 Jinja2==2.10.3
