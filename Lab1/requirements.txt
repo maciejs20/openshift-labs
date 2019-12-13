@@ -1,11 +1,11 @@
 Cython==0.29.13
 esptool==0.1.0
-Flask==0.10.1
+Flask==1.x.x
 itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 numpy==1.16.4
-Pillow==5.4.1
+Pillow==6.2.0
 pycairo==1.17.0
 pyserial==3.4
 pyusb==1.0.2
