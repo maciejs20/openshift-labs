@@ -1,4 +1,5 @@
 import socket
+import math  
 from flask import Flask
 app = Flask(__name__)
 
@@ -27,6 +28,12 @@ def show_version():
 def send_echo(echo):
     return ("{}".format(echo))
 
+@app.route('/load')
+def send_load():
+    for x in range(10000):
+      for y in range(1000):
+        z=x*y-math.sqrt(x)-math.sqrt(y)
+    return ("Value: {}.".format(z))
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
