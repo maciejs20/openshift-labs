@@ -1,17 +1,14 @@
-import socket
 from flask import Flask
 app = Flask(__name__)
 
-version = "2.0"
-host = str(socket.gethostname())
-
+version = "1.0"
 print ("SimpleWebApp {} ready.".format(version))
-print ("Hostname: "+host)
 
 
 @app.route('/')
 def hello():
-    return ("Hello World from "+str(host))
+    return ("Hello World!")
+
 
 @app.route('/alive')
 def alive():
