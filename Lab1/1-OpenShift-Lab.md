@@ -364,11 +364,11 @@ And you will see the route definition for that deployment:
 
 ![image-20191012143150770](images/image-20191012143150770-0883510.png)
 
-And finally:
+Click on "**Actions**" -> "**Edit Yaml**" to see the route definition
 
 ![image-20191012143231692](images/image-20191012143231692-0883551.png)
 
-
+ Click "**Cancel** 
 
 ## Task #5 - Monitoring your application
 
