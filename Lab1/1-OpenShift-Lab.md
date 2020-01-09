@@ -364,7 +364,7 @@ And you will see the route definition for that deployment:
 
 ![image-20191012143150770](images/image-20191012143150770-0883510.png)
 
-Click on "**Actions**" -> "**Edit Yaml**" to see the route definition
+Open Your route (**nodejs-ex**), than click on "**Actions**" -> "**Edit Yaml**" to see the route definition
 
 ![image-20191012143231692](images/image-20191012143231692-0883551.png)
 
