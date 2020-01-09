@@ -434,7 +434,7 @@ Select "**Applications**" -> "**Deployments**" from the web console menu on the 
 
 Click on the application that You have created:
 
-![image-20200107100359449](/Users/maciej/Documents/00_IBM/Produkty/ICP/00_Workshops/Container WS Lectures/openshift/Lab1a/1-OpenShift-Lab.assets/image-20200107100359449.png)
+![1-OpenShift-Lab.assets/image-20200107100359449.png](1-OpenShift-Lab.assets/image-20200107100359449.png)
 
 
 
