@@ -290,7 +290,7 @@ to the `Application Console`
 
 This will show the new created application:
 
-![image-20200107095718881](/Users/maciej/Documents/00_IBM/Produkty/ICP/00_Workshops/Container WS Lectures/openshift/Lab1a/1-OpenShift-Lab.assets/image-20200107095718881.png)
+![1-OpenShift-Lab.assets/image-20200107095718881.png](1-OpenShift-Lab.assets/image-20200107095718881.png)
 
 > The name of your application, the number of pod, the application URL link ...
 
@@ -298,7 +298,7 @@ This will show the new created application:
 
 To get access to the application, click on the route:
 
-![image-20200107095737588](/Users/maciej/Documents/00_IBM/Produkty/ICP/00_Workshops/Container WS Lectures/openshift/Lab1a/1-OpenShift-Lab.assets/image-20200107095737588.png)
+![1-OpenShift-Lab.assets/image-20200107095737588.png](1-OpenShift-Lab.assets/image-20200107095737588.png)
 
 Click on the `nodejs-ex, #1` blue link, then you will see some more details on the application: 
 
@@ -324,7 +324,7 @@ Click on the **running** Pod:
 
 You will get this page:
 
-![image-20200107095905478](/Users/maciej/Documents/00_IBM/Produkty/ICP/00_Workshops/Container WS Lectures/openshift/Lab1a/1-OpenShift-Lab.assets/image-20200107095905478.png)
+![1-OpenShift-Lab.assets/image-20200107095905478.png](1-OpenShift-Lab.assets/image-20200107095905478.png)
 
 Walk thru the different links to understand this application:
 
